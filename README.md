@@ -9,18 +9,6 @@
 | Secondary Color | ![#ffffff](https://via.placeholder.com/10/393E46?text=+) #ffffff |
 | Text Color      | ![#222831](https://via.placeholder.com/10/EEEEEE?text=+) #222831 |
 
-<!-- Env Variables -->
-
-### :key: Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file
-
-`NODE_ENV`
-`JWT_SECRET`
-`MONGODB_URI`
-`PORT`
-`STRIPE_SECRET_KEY`
-
 <!-- Getting Started -->
 
 ## :toolbox: Getting Started
