@@ -130,12 +130,6 @@ To run tests, run the following command
 
 ### :running: Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/hicmtrex/TypeShop-Frontend
-```
-
 Go to the project directory
 
 ```bash
@@ -160,5 +154,3 @@ Start the server
 ## :handshake: Contact
 
  - degorecks@gmail.com
-
-
